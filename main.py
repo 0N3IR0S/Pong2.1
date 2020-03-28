@@ -44,3 +44,6 @@ while not game_exit:
 
 # quit
 pygame.quit()
+
+
+# test Visual Studio
